@@ -46,4 +46,8 @@ group :development, :test do
   gem 'spring'
 
   gem 'ffaker', :git => 'https://github.com/EmmanuelOga/ffaker.git'
+
+  gem 'rspec-rails'
+  gem 'factory_girl_rails'
+  gem 'shoulda'
 end
